@@ -1,0 +1,6 @@
+[
+	{ "Name": "Normal", "Light": 1.0,  "Shielded": 0.9, "Heavy": 1.25, "Building": 0.6 },
+	{ "Name": "Pierce", "Light": 1.25, "Shielded": 0.5, "Heavy": 0.6,  "Building": 0.35 },
+	{ "Name": "Siege",  "Light": 0.9,  "Shielded": 1.0, "Heavy": 1.25, "Building": 1.5 },
+	{ "Name": "Energy", "Light": 1.0,  "Shielded": 1.0, "Heavy": 1.0,  "Building": 1.0 }
+]

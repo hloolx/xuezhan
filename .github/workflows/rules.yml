@@ -1,0 +1,19 @@
+name: Rules core
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  simulation:
+    runs-on: windows-2022
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check public asset and credential boundaries
+        run: python Tools/check_public_release.py
+      - name: Build and test the engine-independent rules
+        shell: powershell
+        run: ./Tools/run_sim_tests.ps1 -Matches 20

@@ -1,0 +1,67 @@
+[
+	{
+		"Name": "Meteor",
+		"DisplayName": "陨石坠落",
+		"Description": "指定区域预警后落下陨石，伤害范围内敌军单位，不伤害基地。",
+		"Age": 0,
+		"Cost": 50,
+		"Cooldown": 50.0,
+		"Delay": 1.6,
+		"Radius": 320.0,
+		"Damage": 140.0,
+		"DamageType": "Siege",
+		"VisualKey": "Skill_Meteor"
+	},
+	{
+		"Name": "ArrowRain",
+		"DisplayName": "箭雨",
+		"Description": "预警后万箭齐发，对轻甲部队效果显著，对持盾与重甲效果较差。",
+		"Age": 1,
+		"Cost": 90,
+		"Cooldown": 50.0,
+		"Delay": 1.4,
+		"Radius": 380.0,
+		"Damage": 210.0,
+		"DamageType": "Pierce",
+		"VisualKey": "Skill_ArrowRain"
+	},
+	{
+		"Name": "Artillery",
+		"DisplayName": "炮火覆盖",
+		"Description": "呼叫后方炮兵齐射，对重甲和密集部队效果显著。",
+		"Age": 2,
+		"Cost": 160,
+		"Cooldown": 55.0,
+		"Delay": 1.8,
+		"Radius": 420.0,
+		"Damage": 360.0,
+		"DamageType": "Siege",
+		"VisualKey": "Skill_Artillery"
+	},
+	{
+		"Name": "Airstrike",
+		"DisplayName": "空袭",
+		"Description": "呼叫战机地毯式轰炸，覆盖范围大。",
+		"Age": 3,
+		"Cost": 260,
+		"Cooldown": 55.0,
+		"Delay": 2.0,
+		"Radius": 520.0,
+		"Damage": 560.0,
+		"DamageType": "Siege",
+		"VisualKey": "Skill_Airstrike"
+	},
+	{
+		"Name": "OrbitalBeam",
+		"DisplayName": "轨道光束",
+		"Description": "卫星聚能光束贯穿地面，能量伤害无视护甲。",
+		"Age": 4,
+		"Cost": 380,
+		"Cooldown": 60.0,
+		"Delay": 1.6,
+		"Radius": 460.0,
+		"Damage": 950.0,
+		"DamageType": "Energy",
+		"VisualKey": "Skill_OrbitalBeam"
+	}
+]

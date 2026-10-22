@@ -1,0 +1,20 @@
+'Titan' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au
+https://www.scottbuckley.com.au/library/titan/
+'Legionnaire (Original)' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au
+https://www.scottbuckley.com.au/library/legionnaire/
+'Juggernaut' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au
+https://www.scottbuckley.com.au/library/juggernaut/
+
+License: https://creativecommons.org/licenses/by/4.0/
+Changes: MP3 decoded to 48 kHz stereo PCM16; loudness normalized to -23 LUFS, max -3 dBTP. Full tracks retained.
+
+Fantasy UI Borders by Kenney (CC0)
+https://kenney.nl/assets/fantasy-ui-borders
+License: https://creativecommons.org/publicdomain/zero/1.0/
+Used: PNG/Default/Border/panel-border-000.png, copied unchanged; tinted and nine-slice scaled in the game UI. No sample image or sample font used.
+
+Historical Weapons Vol. 2 / Bass Drops & Downers Vol. 1 by 344 Audio, provided in the Sonniss GDC 2026 bundle.
+https://gdc.sonniss.com/
+License: https://sonniss.com/gdc-bundle-license/ (v2.0 effective 2026-08-27).
+Changes: selected isolated excerpts, downmixed/resampled to 48 kHz mono PCM16, high-pass filtering, edge fades and restrained gains; bass excerpt also mixed subtly with the original CivWar civilization-up melody. Original recordings remain credited to their creator.
+Finished game use permitted; standalone/sample-library redistribution is not permitted. No AI training.
