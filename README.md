@@ -6,6 +6,35 @@
 
 **[学 AI，上 linux.do](https://linux.do/u/hlool/)** · 作者：[hloolx](https://github.com/hloolx)
 
+## 游戏实机截图
+
+以下为 **2026-10-21 本地 Unreal 游戏实际运行截图**，展示使用私有美术资源的完整版。公开源码版使用程序化占位外观，画面与截图不同；展示截图不代表模型、贴图或动画源文件开源。[截图说明](Docs/images/README.md)
+
+**主菜单 · 石器时代基地与部队**
+
+![血战文明主菜单，展示石器时代基地、石斧战士、部落酋长与投石猎手](Docs/images/main-menu.png)
+
+**中世纪 · 盾剑步兵与弩手交战**
+
+![中世纪实机战斗，双方部队在战线上交锋，下方为训练、进化、指挥和城防界面](Docs/images/medieval-battle.png)
+
+**未来科技 · 光剑部队与统帅**
+
+![未来时代实机战斗，蓝红双方光剑部队与灵能统帅对阵](Docs/images/future-battle.png)
+
+<details>
+<summary>查看更多：未来基地展示与国策选择</summary>
+
+**主菜单 · 未来时代预览**
+
+![主菜单切换到未来时代，展示未来基地、光剑战士、灵能统帅和激光步兵](Docs/images/future-preview.png)
+
+**国策选择 · 塑造本局发展路线**
+
+![石器时代对局中的国策选择，包含神射手、以战养战和文明之光](Docs/images/doctrine-selection.png)
+
+</details>
+
 ## 玩法
 
 - 五个时代：石器、中世纪、工业、现代、未来；15 种常规兵种、5 名时代统帅、9 种炮塔。

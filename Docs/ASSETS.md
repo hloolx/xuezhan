@@ -11,6 +11,7 @@
 | `Content/Audio/Music/MUS_*.uasset` | 公开：Scott Buckley 三首配乐 | CC BY 4.0，保留署名与修改说明 |
 | `Content/UI/EpicBorders/T_CommandFrame.uasset` | 公开：Kenney 边框 | CC0 |
 | `Content/Fonts/` | 公开：Noto Sans SC 字体与许可 | SIL OFL 1.1 |
+| `Docs/images/*.png` | 公开展示：完整版游戏实际运行截图 | 不适用 MIT；展示截图不授权私有美术源资产，见[截图说明](images/README.md) |
 | `Content/ArtPilot/` | **不公开**：模型、贴图、骨架、动画等 | 作者私有，未在本次发布中授权 |
 | `RawAssets/Art/`、专用美术映射、自然地形派生材质 | **不公开**：参考图、源模型、生产输入与派生美术 | 作者私有 |
 | `Content/Audio/ThirdParty/`、`RawAssets/Audio/ThirdParty/` | **不公开**：Sonniss 录音及派生采样 | 第三方限制素材再分发 |

@@ -53,4 +53,4 @@ Noto Sans SC Regular / Bold，来源为 [notofonts/noto-cjk](https://github.com/
 - **Unreal Engine**：Epic Games 提供，适用其 [官方许可](https://www.unrealengine.com/en-US/eula/unreal)。本仓库不分发 Unreal Engine 源码、二进制或引擎基础形体文件。
 - **Blender**：用于本地美术处理，工具脚本在 `Tools/Blender/`；软件和私有处理输入不随项目打包。
 
-MIT 仅覆盖仓库内项目自有代码、文档、数值配置和已明确标注的自有生成内容；第三方资源依各自许可，作者私有资产不在本次授权范围内。
+MIT 仅覆盖仓库内项目自有代码、文字文档、数值配置和已明确标注的自有生成内容；第三方资源依各自许可，作者私有资产不在本次授权范围内。`Docs/images/*.png` 是完整版游戏的实机展示截图，不适用 MIT，也不授予截图中私有美术源资产的复制、提取或再分发许可，详见[截图说明](Docs/images/README.md)。

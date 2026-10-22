@@ -10,3 +10,4 @@
 *.uasset binary
 *.umap binary
 *.otf binary
+*.png binary
